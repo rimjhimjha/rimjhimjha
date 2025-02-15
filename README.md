@@ -37,19 +37,19 @@
 
 ### 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimjhimjha/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rim04/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimjhimjha)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-📧 **Email:** rimjhimjha@example.com  
+📧 **Email:** rimjhim.jha18@gmail.com  
 
 ---
 
 ### ✨ About Me:
-- 🌱 Currently exploring **MLOps & Cloud Computing**
+- 🌱 Currently exploring **MLOps & GenAI**
 - 🏆 Worked on **Machine Learning, Deep Learning, and Image Processing Projects**
-- 💡 Passionate about **AI, Software Development, and Competitive Programming**
+- 💡 Passionate about **AI, Software Development, and Problem solving**
 - 🎯 Seeking **Internship Opportunities for Summer 2025**
-- 🎨 Love working on **Open Source & Tech Community Contributions**
+
 
 💬 **Let's build something amazing together!** 🚀
 
