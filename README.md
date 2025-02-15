@@ -28,19 +28,19 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rimjhim26&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rimjhim26&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Rimjhim26&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rimjhimjha&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rimjhimjha&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rimjhimjha&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
 
 ### 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimjhim26/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rimjhim26)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimjhimjha/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimjhimjha)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-📧 **Email:** rimjhim26@example.com  
+📧 **Email:** rimjhimjha@example.com  
 
 ---
 
