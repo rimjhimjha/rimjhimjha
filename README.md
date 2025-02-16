@@ -30,6 +30,12 @@
 ![Transformers](https://img.shields.io/badge/Transformers-DC143C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MLOps](https://img.shields.io/badge/MLOps-32CD32?style=for-the-badge&logo=mlops&logoColor=white)
 
+**Concepts of MLOps**
+- Model Training & Deployment
+- CI/CD for ML Models
+- Monitoring & Observability
+- Data Versioning & Management
+- Scalable Infrastructure
 
 ---
 
