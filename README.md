@@ -59,11 +59,12 @@
 ---
 
 ### ✨ About Me:
-- 🌱 Currently exploring **MLOps & Cloud Computing**
-- 🏆 Worked on **Machine Learning, Deep Learning, and Image Processing Projects**
-- 💡 Passionate about **AI, Software Development, and Competitive Programming**
-- 🎯 Seeking **Internship Opportunities for Summer 2025**
-- 🎨 Love working on **Open Source & Tech Community Contributions**
+-✨ About Me:
+-🌱 Currently exploring MLOps, Cloud Computing, Machine Learning & Generative AI
+-🏆 Worked on Machine Learning, Deep Learning, and Image Processing Projects
+-💡 Passionate about AI, Software Development, and Problem Solving
+-🎯 Seeking Internship Opportunities for Summer 2025
+-🎨 Love working on projects that solve real-world problems
 
 💬 **Let's build something amazing together!** 🚀
 
