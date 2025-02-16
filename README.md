@@ -18,6 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **Machine Learning, AI & Cloud:**  
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF4500?style=for-the-badge&logo=ai&logoColor=white)
@@ -59,7 +60,6 @@
 ---
 
 ### ✨ About Me:
--✨ About Me:
 -🌱 Currently exploring MLOps, Cloud Computing, Machine Learning & Generative AI
 -🏆 Worked on Machine Learning, Deep Learning, and Image Processing Projects
 -💡 Passionate about AI, Software Development, and Problem Solving
@@ -73,4 +73,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3f5efb,100:fc466b&height=100&section=footer" />
 </div>
-
