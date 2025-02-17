@@ -2,6 +2,12 @@
 
 🚀 **Aspiring MLOps Engineer | AI & Cloud Enthusiast | Open to Opportunities**
 
+💡 Passionate about AI, Software Development, and Problem Solving
+🎯 Seeking Internship Opportunities for Summer 2025
+🏆 Worked on Machine Learning, Deep Learning, and Image Processing Projects
+🌱 Currently exploring MLOps, Cloud Computing & Generative AI
+🎨 Love working on projects that solve real-world problems
+
 ---
 
 <div align="center">
@@ -52,19 +58,11 @@
 
 ### 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rimjhimjha/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rim04/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rimjhimjha)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)  
-📧 **Email:** rimjhimjha@example.com  
+📧 **Email:** rimjhim.jha18@gmail.com  
 
 ---
-
-### ✨ About Me:
--🌱 Currently exploring MLOps, Cloud Computing, Machine Learning & Generative AI
--🏆 Worked on Machine Learning, Deep Learning, and Image Processing Projects
--💡 Passionate about AI, Software Development, and Problem Solving
--🎯 Seeking Internship Opportunities for Summer 2025
--🎨 Love working on projects that solve real-world problems
 
 💬 **Let's build something amazing together!** 🚀
 
